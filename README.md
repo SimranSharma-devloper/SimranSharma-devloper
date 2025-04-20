@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Reach Me
-- LinkedIn: [linkedin.com/in/simransharma](#)
+- LinkedIn: [[linkedin.com/in/simransharma](https://www.linkedin.com/in/simran-sharma-3052a71b0/)](#)
 - Email: simran.sharma@gmail.com  
 - Portfolio: [Coming soon!]
 
